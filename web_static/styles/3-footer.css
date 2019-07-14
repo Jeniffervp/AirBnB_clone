@@ -6,7 +6,7 @@ footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    position: absolute;
-    bottom: 0%;
+    position: fixed;
+    bottom: 0;
     border-top: 1px solid #CCCCCC;
 }
