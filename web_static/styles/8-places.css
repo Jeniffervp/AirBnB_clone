@@ -57,6 +57,7 @@
 
 .max_guest, .number_rooms, .number_bathrooms{
     width: 100px;
+    text-align: center;
 }
 
 .max_guest p, .number_rooms p, .number_bathrooms p{
